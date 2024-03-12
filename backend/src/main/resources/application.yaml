@@ -40,7 +40,7 @@ spring:
       mail.smtp.starttls.enable: true
 
 jwt:
-  secret: jwtSecret
+  secret: ##jwtSecret
   refresh-token-expire: 86400000
 
 cloud:
