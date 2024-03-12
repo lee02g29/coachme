@@ -107,7 +107,17 @@
 
 ![코치페이지3](https://github.com/lee02g29/coachme/assets/19562994/28cbb84c-6666-43b8-8413-29f792c4fd48)
 
-![코치페이지4](https://github.com/lee02g29/coachme/assets/19562994/66bb4348-9baa-48d7-be7a-0bde16ec6a83
+![코치페이지4](https://github.com/lee02g29/coachme/assets/19562994/8ee3708f-abed-4736-9709-aeb1c029ae5f)
+
+### 코치 포트폴리오
+영상으로 대체합니다. 현재는 스크롤형이 아닌, 라우터형으로 변경되었습니다.  
+리뷰 CRUD 기능도 추가되었습니다.   
+![코치 포트폴리오 API 연동](https://github.com/lee02g29/coachme/assets/19562994/88e1399d-e607-4f61-84e4-aaab2d11cb02)
+
+### 코칭 상세페이지
+영상으로 대체합니다. 현재는 스크롤형이 아닌, 라우터형으로 변경되었습니다.  
+리뷰 CRUD 기능도 추가되었습니다.   
+![코칭 상세페이지 API 영상](https://github.com/lee02g29/coachme/assets/19562994/f43c5c8e-05a6-4ab2-863f-24aaee32ea08)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
