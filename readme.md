@@ -77,37 +77,37 @@
 
 ### 메인 화면
 
-![메인화면](/uploads/9d1d63c380832752b83b50b8fea6abea/메인화면.JPG)
+![메인화면](https://github.com/lee02g29/coachme/assets/19562994/3152b9af-d0b5-4d61-b004-d81160fb6f00)
 
 ### 검색화면(코치)
 
 #### 리스트
 
-![코치검색페이지_리스트](/uploads/0c838c813549069e6dc336861d4bd57a/코치검색페이지_리스트.JPG)
+![코치검색페이지_리스트](https://github.com/lee02g29/coachme/assets/19562994/278fda3b-1f71-4849-9ceb-064d9bd94cc2)
 
 #### 카드
 
-![코치검색페이지_카드](/uploads/e05882f959964ed7f2fe7118f6c24bfe/코치검색페이지_카드.JPG)
+![코치검색페이지_카드](https://github.com/lee02g29/coachme/assets/19562994/69bf67eb-8199-4ebb-b33b-b6dcb6730098)
 
 ### 검색화면(코칭)
 
-![코칭검색페이지](/uploads/1c317472ef49e915d2fc664e62f4dce9/코칭검색페이지.JPG)
+![코칭검색페이지](https://github.com/lee02g29/coachme/assets/19562994/57dd1672-45f1-4d51-95a8-4d664dd97f6c)
 
 ### 마이페이지(코미)
 
-![마이페이지1](/uploads/13da3d54df69cb16aab53be33db14142/마이페이지1.JPG)
+![마이페이지1](https://github.com/lee02g29/coachme/assets/19562994/d14a7089-f3d2-427e-b084-98574737cb3a)
 
-![마이페이지2](/uploads/b8f4d8f8f2d3e0b86f6d2588e63588fd/마이페이지2.JPG)
+![마이페이지2](https://github.com/lee02g29/coachme/assets/19562994/ad848813-5959-41d0-9946-a2b05816d32e)
 
 ### 마이페이지(코치)
 
-![코치페이지1](/uploads/fcbfe506b65bf83cc7d84d5ab9ed08ac/코치페이지1.JPG)
+![코치페이지1](https://github.com/lee02g29/coachme/assets/19562994/c755b252-c279-4cd0-b2da-e1b7bd8e076c)
 
-![코치페이지2](/uploads/55bd09bad42a7872f1cc4a7eec205c67/코치페이지2.JPG)
+![코치페이지2](https://github.com/lee02g29/coachme/assets/19562994/c40e0f47-2bc4-427e-872d-bb06cbfdada0)
 
-![코치페이지3](/uploads/152cc8f93b2fdc31d23396021438d325/코치페이지3.JPG)
+![코치페이지3](https://github.com/lee02g29/coachme/assets/19562994/28cbb84c-6666-43b8-8413-29f792c4fd48)
 
-![코치페이지4](/uploads/ad3fe2334d515906a1ee1a24fb06307c/코치페이지4.JPG)
+![코치페이지4](https://github.com/lee02g29/coachme/assets/19562994/66bb4348-9baa-48d7-be7a-0bde16ec6a83
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -117,15 +117,15 @@
 
 ### 아키텍처
 
-![아키텍처](/uploads/da2c256d1e7aad7633eb2fa5eb9ce7b9/architecture.png)
+![아키텍처](https://github.com/lee02g29/coachme/assets/19562994/83908158-a407-4bb6-8c35-ecdb20cb8777)
 
 ### 와이어 프레임
 
-![와이어프레임](/uploads/c9d8d4ae383907b1f05be185a91a3765/와이어프레임.png)
+![와이어프레임](https://github.com/lee02g29/coachme/assets/19562994/29071401-e034-4ca4-aa27-e595e0e327c3)
 
 ### ERD
 
-![ERD](/uploads/3bbcfcd638983d15a1a996ae38dfc333/live_coaching.png)
+![live_coaching](https://github.com/lee02g29/coachme/assets/19562994/f0790655-4839-422d-a810-9b785a338d4f)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
