@@ -155,9 +155,9 @@
 
 ![intellij][intellij] ![vscode][vscode] ![workbench][workbench]
 
-### Framework
+### Framework & Library
 
-![springboot][springboot] ![Vue][Vue.js] ![fastapi][fastapi]
+![springboot][springboot] ![Vue][Vue.js] ![fastapi][fastapi] ![pinia][pinia]
 
 ### Infrastructure
 
@@ -195,6 +195,7 @@
 [CSS3]: https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white
 [HTML5]: https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white
 [Python]: https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white
+
 [git]: https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white
 [gitlab]: https://img.shields.io/badge/gitlab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white
 [Jira]: https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jirasoftware&logoColor=white
@@ -204,12 +205,16 @@
 [discord]: https://img.shields.io/badge/discord-5865F2?style=for-the-badge&logo=discord&logoColor=white
 [figma]: https://img.shields.io/badge/figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white
 [notion]: https://img.shields.io/badge/notion-000000?style=for-the-badge&logo=notion&logoColor=white
+
 [intellij]: https://img.shields.io/badge/intellij-000000?style=for-the-badge&logo=intellijidea&logoColor=white
 [vscode]: https://img.shields.io/badge/vscode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white
 [workbench]: https://img.shields.io/badge/workbench-4479A1?style=for-the-badge&logo=mysql&logoColor=white
+
 [springboot]: https://img.shields.io/badge/springboot-v3.1-6DB33F?style=for-the-badge&logo=springboot&logoColor=white
 [Vue.js]: https://img.shields.io/badge/Vue.js-v3.4.15-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D
 [fastapi]: https://img.shields.io/badge/fastAPI-v0.109.0-009688?style=for-the-badge&logo=fastapi&logoColor=4FC08D
+[pinia]: https://img.shields.io/badge/pinia-FFF000?style=for-the-badge&logoColor=white
+
 [amazonec2]: https://img.shields.io/badge/amazonec2-Ubuntu_20.04-FF9900?style=for-the-badge&logo=amazonec2&logoColor=4FC08D
 [nginx]: https://img.shields.io/badge/nginx-v1.18.0-009639?style=for-the-badge&logo=nginx&logoColor=4FC08D
 [redis]: https://img.shields.io/badge/redis-v5.0.7-DC382D?style=for-the-badge&logo=redis&logoColor=4FC08D
