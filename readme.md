@@ -213,7 +213,7 @@
 [springboot]: https://img.shields.io/badge/springboot-v3.1-6DB33F?style=for-the-badge&logo=springboot&logoColor=white
 [Vue.js]: https://img.shields.io/badge/Vue.js-v3.4.15-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D
 [fastapi]: https://img.shields.io/badge/fastAPI-v0.109.0-009688?style=for-the-badge&logo=fastapi&logoColor=4FC08D
-[pinia]: https://img.shields.io/badge/pinia-FFF000?style=for-the-badge&logoColor=white
+[pinia]: https://img.shields.io/badge/pinia-v2.1.7-FFF000?style=for-the-badge&logoColor=white
 
 [amazonec2]: https://img.shields.io/badge/amazonec2-Ubuntu_20.04-FF9900?style=for-the-badge&logo=amazonec2&logoColor=4FC08D
 [nginx]: https://img.shields.io/badge/nginx-v1.18.0-009639?style=for-the-badge&logo=nginx&logoColor=4FC08D
